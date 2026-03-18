@@ -89,7 +89,7 @@ Pesquisas realizadas indicaram:
 ---
 
 ## 📄 Documentação
-Relatório e apresentação do projeto:  
+Relatório técnico completo do projeto:  
 🔗 docs/EnergyStep.pdf
 
 ---
