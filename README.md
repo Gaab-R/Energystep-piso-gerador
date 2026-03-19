@@ -90,7 +90,7 @@ Pesquisas realizadas indicaram:
 
 ## 📄 Documentação
 Relatório técnico completo do projeto:  
-🔗 [📄 Abrir PDF](./docs/EnergyStep.pdf)
+🔗 (./docs/EnergyStep.pdf)
 
 ---
 
