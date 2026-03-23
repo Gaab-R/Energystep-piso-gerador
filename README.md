@@ -64,6 +64,8 @@ A proposta é aproveitar a energia mecânica gerada pela circulação de pessoas
 
 ## [Documentação](./docs/EnergyStep.pdf)
 
+Arquivos de documentação do projeto EnergyStep.
+
 ---
 
 ## O que foi trabalhado
